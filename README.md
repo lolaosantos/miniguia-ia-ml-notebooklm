@@ -1,7 +1,7 @@
 # 🤖 Miniguia de Estudos: Inteligência Artificial & Machine Learning
 ### Caderno Temático criado com NotebookLM — Desafio de Projeto DIO
 
-> **Autor:** [Seu Nome]
+> **Autor:** Lorena Oliveira
 > **Data:** Maio de 2026
 > **Plataforma de IA utilizada:** [Google NotebookLM](https://notebooklm.google.com/)
 > **Nível:** Iniciante
